@@ -16,6 +16,7 @@ Script em php e mysql para acompanhamento de projetos freelancer
 <br>- Botão finalizar trabalho finalizado no painel de administração
 <br>- Nova animação de transição ao fazer login painel de administração
 <br>- Texto de "carregando" no botão ao fazer login no painel de administração
+<br>- Alguns códigos PHP foram reescritos para ficarem mais limpos e performáticos
 
 </p>
 <p>2.0
